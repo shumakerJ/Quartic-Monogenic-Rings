@@ -11,8 +11,7 @@ This repository contains code related to my research on **quartic monogenic orde
 This code is written for **SageMath 10.5** and requires the following dependencies:  
 - **SageMath** (https://www.sagemath.org/)  
 - **Pari/GP** (https://pari.math.u-bordeaux.fr/)  
-- **NumPy** (if applicable)  
-- Other dependencies (list any additional ones)  
+- **NumPy** (if applicable)   
 
 ## **Usage**  
 To run the code, open a SageMath notebook or script and execute:  
